@@ -1,0 +1,12 @@
+apiVersion: operator-group.example.com/v1
+kind: Operator
+metadata:
+  labels:
+    app.kubernetes.io/name: operator
+    app.kubernetes.io/instance: operator-sample
+    app.kubernetes.io/part-of: golang-work
+    app.kubernetes.io/managed-by: kustomize
+    app.kubernetes.io/created-by: golang-work
+  name: operator-sample
+spec:
+  # TODO(user): Add fields here
