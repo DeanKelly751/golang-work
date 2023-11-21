@@ -1,8 +1,8 @@
 # golang-work
-// TODO(user): Add simple overview of use/purpose
+// Operator Template
 
 ## Description
-// TODO(user): An in-depth paragraph about your project and overview of use
+// TODO(user): Skeleton for a golang kubernetes operator which can be edited for various use cases.
 
 ## Getting Started
 You’ll need a Kubernetes cluster to run against. You can use [KIND](https://sigs.k8s.io/kind) to get a local cluster for testing, or run against a remote cluster.
